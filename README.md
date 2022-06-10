@@ -1,4 +1,4 @@
-# Livro de Receitas :man_cook:
+# Lista de comandos para o GIT :facepunch:
 
-Olá ! Bem vindo ao meu livro de receitas :raised_hands: :drooling_face:
+Primeiro repositório do bootcamp Santander Fullsteck Developer.
 
